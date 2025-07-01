@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shraddheya Tarekar</h1>
 <h3 align="center">A passionate developer and Tester in USA</h3>
 
-- 🔭 I’m currently working as a Founding Engineer at Complama **Helping build scalable and secure systems from scratch**
+- 🔭 I’m currently working as a **Founding Engineer** at Complama **Helping build scalable and secure systems from scratch**
 
 - 🌱 I’m currently learning **Next.js,Express, Springboot, Advanced AWS(Lambda, DynamoDB), Penetration Testing(Certification for Ethical Hacker), Scalable system design and Microservices**
 
