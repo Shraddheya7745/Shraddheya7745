@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js,Express, Springboot, Advanced AWS(Lambda, DynamoDB), Penetration Testing(Certification for Ethical Hacker), Scalable system design and Microservices**
 
-- 👯 I’m looking to collaborate on projects related to **Web development, Penetration Testing, Automation Testing**
+- 👯 I’m looking to collaborate on projects related to **Web development, Software Development, Penetration Testing, Automation Testing**
 
 - 💬 Ask me about **React, TypeScript, Java, Selenium, Security, OAuth**
 
